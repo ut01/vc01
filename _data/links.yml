@@ -17,6 +17,7 @@
       - { url: "https://greylock.com/", title: "Greylock", icon: "fas fa-chess-knight", keywords: "greylock venture capital", meta: "Leading early-stage venture capital" }
       - { url: "https://www.zhenfund.com/", title: "真格基金 (Zhenfund)", icon: "fas fa-coins", keywords: "zhenfund china vc angel", meta: "Leading Chinese angel investment fund" }
       - { url: "https://www.zfellows.com/", title: "ZFellows", icon: "fas fa-user-friends", keywords: "zfellows zhenfund fellowship", meta: "Zhenfund fellowship program" }
+      - { url: "https://startingpointone.org/", title: "SP1", icon: "fas fa-rocket", keywords: "sp1 starting point one kehan dong accelerator", meta: "Starting Point One by Kehan Dong" }
       - { url: "https://www.hf0.com/", title: "HF0", icon: "fas fa-rocket", keywords: "hf0 accelerator startup", meta: "Early-stage startup accelerator" }
 
 -
@@ -28,7 +29,7 @@
       - { url: "https://x.com/elonmusk", title: "Elon Musk", icon: "fab fa-x-twitter", keywords: "elon musk tesla spacex x", meta: "Tesla, SpaceX, X CEO" }
       - { url: "https://x.com/peterthiel", title: "Peter Thiel", icon: "fab fa-x-twitter", keywords: "peter thiel founders fund paypal", meta: "Founders Fund, PayPal co-founder" }
       - { url: "https://www.acquired.fm/", title: "Acquired Podcast", icon: "fas fa-podcast", keywords: "acquired podcast business history", meta: "Business history podcast" }
-      - { url: "https://www.jmail.world/", title: "J-Mail", icon: "fas fa-envelope", keywords: "jmail newsletter tech", meta: "Tech newsletter & insights" }
+      - { url: "https://www.jmail.world/", title: "J-Mail", icon: "fas fa-envelope", keywords: "jmail epstein emails congress", meta: "Jeffrey Epstein emails released by Congress" }
       - { url: "https://www.ben-evans.com/", title: "Benedict Evans", icon: "fas fa-chart-line", keywords: "benedict evans tech analyst", meta: "Technology analyst & trend forecaster" }
       - { url: "http://abovethecrowd.com/", title: "Bill Gurley", icon: "fas fa-star", keywords: "bill gurley benchmark", meta: "Benchmark partner, legendary tech investor" }
       - { url: "https://tomtunguz.com/", title: "Tomasz Tunguz", icon: "fas fa-database", keywords: "tomasz tunguz theory ventures saas", meta: "Theory Ventures founder, SaaS/Data expert" }
