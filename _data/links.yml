@@ -39,6 +39,9 @@
     links:
       - { url: "https://news.ycombinator.com/", title: "Hacker News", icon: "fab fa-hacker-news", keywords: "hackernews hn tech news", meta: "Mode: Top Stories, Active: 128 New" }
       - { url: "https://trendshift.io/repository-engagements", title: "TrendShift", icon: "fab fa-github", keywords: "github trending repositories", meta: "GitHub trending repositories" }
+      - { url: "https://www.anthropic.com/news", title: "Anthropic (Claude)", icon: "fas fa-brain", keywords: "anthropic claude ai llm", meta: "Claude AI research & updates" }
+      - { url: "https://openai.com/news/", title: "OpenAI", icon: "fas fa-robot", keywords: "openai chatgpt gpt ai", meta: "ChatGPT & GPT research" }
+      - { url: "https://x.ai/blog", title: "xAI", icon: "fas fa-rocket", keywords: "xai grok elon musk ai", meta: "Grok AI by Elon Musk" }
       - { url: "https://ai.google/", title: "Google AI", icon: "fab fa-google", keywords: "google ai deepmind research", meta: "Official Google AI & DeepMind research" }
       - { url: "https://huggingface.co/", title: "Hugging Face", icon: "fas fa-smile", keywords: "huggingface ai models open source", meta: "Open-source AI model hub & community" }
       - { url: "https://www.nvidia.com/en-us/ai/", title: "NVIDIA AI", icon: "fas fa-microchip", keywords: "nvidia ai gpu computing", meta: "GPU-accelerated computing & AI research" }
@@ -51,7 +54,6 @@
       - { url: "https://www.nvidia.com/", title: "NVIDIA", icon: "fas fa-microchip", keywords: "nvidia gpu h100 b200", meta: "[NVDA] Focus: H100/B200 Trend: +2.4%" }
       - { url: "https://www.amd.com/", title: "AMD", icon: "fas fa-microchip", keywords: "amd gpu mi300", meta: "[AMD] Focus: MI300 Series Trend: +1.1%" }
       - { url: "https://www.microsoft.com/", title: "Microsoft", icon: "fab fa-microsoft", keywords: "microsoft azure openai", meta: "[MSFT] Focus: Azure/OpenAI Trend: -0.3%" }
-      - { url: "https://www.google.com/", title: "Google", icon: "fab fa-google", keywords: "google tpu vertex ai", meta: "[GOOG] Focus: TPU / Vertex" }
       - { url: "#", title: "Meritocracy", icon: "fas fa-trophy", keywords: "meritocracy talent", meta: "[M] Focus: Talent" }
       - { url: "#", title: "OpenResearch", icon: "fas fa-flask", keywords: "openresearch ubi research", meta: "[O] Focus: UBI Research" }
 
