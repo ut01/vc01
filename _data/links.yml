@@ -48,6 +48,7 @@
       - { url: "https://huggingface.co/", title: "Hugging Face", icon: "fas fa-smile", keywords: "huggingface ai models open source", meta: "Open-source AI model hub & community" }
       - { url: "https://www.nvidia.com/en-us/ai/", title: "NVIDIA AI", icon: "fas fa-microchip", keywords: "nvidia ai gpu computing", meta: "GPU-accelerated computing & AI research" }
       - { url: "https://www.amd.com/", title: "AMD", icon: "fas fa-microchip", keywords: "amd gpu mi300", meta: "[AMD] Focus: MI300 Series Trend: +1.1%" }
+      - { url: "https://www.apple.com/apple-intelligence/", title: "Apple AI", icon: "fab fa-apple", keywords: "apple ai machine learning intelligence", meta: "Apple Intelligence & AI" }
       - { url: "https://www.microsoft.com/en-us/research/", title: "MS Research", icon: "fab fa-microsoft", keywords: "microsoft research ai", meta: "Microsoft Research global divisions" }
       - { url: "https://www.openresearchlab.org/", title: "OpenResearch", icon: "fas fa-flask", keywords: "openresearch ubi research", meta: "[O] Focus: UBI Research" }
       - { url: "https://www.langchain.com/", title: "LangChain", icon: "fas fa-link", keywords: "langchain llm framework", meta: "Framework for building LLM applications" }
