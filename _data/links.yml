@@ -37,6 +37,8 @@
   - section: "AI RESEARCH & TECH BLOGS"
     section_zh: "AI研究与技术博客"
     links:
+      - { url: "https://news.ycombinator.com/", title: "Hacker News", icon: "fab fa-hacker-news", keywords: "hackernews hn tech news", meta: "Mode: Top Stories, Active: 128 New" }
+      - { url: "https://trendshift.io/repository-engagements", title: "TrendShift", icon: "fab fa-github", keywords: "github trending repositories", meta: "GitHub trending repositories" }
       - { url: "https://ai.google/", title: "Google AI", icon: "fab fa-google", keywords: "google ai deepmind research", meta: "Official Google AI & DeepMind research" }
       - { url: "https://huggingface.co/", title: "Hugging Face", icon: "fas fa-smile", keywords: "huggingface ai models open source", meta: "Open-source AI model hub & community" }
       - { url: "https://www.nvidia.com/en-us/ai/", title: "NVIDIA AI", icon: "fas fa-microchip", keywords: "nvidia ai gpu computing", meta: "GPU-accelerated computing & AI research" }
