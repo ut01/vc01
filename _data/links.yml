@@ -38,11 +38,6 @@
       - { url: "https://www.langchain.com/", title: "LangChain", icon: "fas fa-link", keywords: "langchain llm framework", meta: "Framework for building LLM applications" }
       - { url: "https://www.microsoft.com/en-us/research/", title: "MS Research", icon: "fab fa-microsoft", keywords: "microsoft research ai", meta: "Microsoft Research global divisions" }
       - { url: "https://bair.berkeley.edu/", title: "BAIR", icon: "fas fa-graduation-cap", keywords: "berkeley ai research lab", meta: "Berkeley AI Research Lab" }
-      - { url: "https://vercel.com/blog", title: "Vercel", icon: "fas fa-triangle", keywords: "vercel nextjs frontend", meta: "Next.js development & frontend insights" }
-      - { url: "https://stripe.com/blog", title: "Stripe", icon: "fas fa-credit-card", keywords: "stripe payments fintech", meta: "Global payment platform tech & business" }
-      - { url: "https://discord.com/blog", title: "Discord", icon: "fab fa-discord", keywords: "discord engineering community", meta: "Engineering at scale & community tech" }
-      - { url: "https://blog.cloudflare.com/", title: "Cloudflare", icon: "fas fa-cloud", keywords: "cloudflare network security", meta: "Network security & performance" }
-      - { url: "https://www.databricks.com/blog", title: "Databricks", icon: "fas fa-database", keywords: "databricks big data lakehouse", meta: "Big data, lakehouse & AI engineering" }
       - { url: "https://engineering.atspotify.com/", title: "Spotify", icon: "fab fa-spotify", keywords: "spotify engineering music streaming", meta: "Music streaming engineering at scale" }
       - { url: "https://replicate.com/blog", title: "Replicate", icon: "fas fa-copy", keywords: "replicate ai deployment cloud", meta: "Cloud-based AI model deployment" }
 
