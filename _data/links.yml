@@ -19,6 +19,7 @@
       - { url: "https://www.zfellows.com/", title: "ZFellows", icon: "fas fa-user-friends", keywords: "zfellows zhenfund fellowship", meta: "Zhenfund fellowship program" }
       - { url: "https://startingpointone.org/", title: "SP1", icon: "fas fa-rocket", keywords: "sp1 starting point one kehan dong accelerator", meta: "Starting Point One by Kehan Dong" }
       - { url: "https://www.hf0.com/", title: "HF0", icon: "fas fa-rocket", keywords: "hf0 accelerator startup", meta: "Early-stage startup accelerator" }
+      - { url: "https://harvardst.co/", title: "Harvard St", icon: "fas fa-house-chimney", keywords: "harvard st builders creators community", meta: "Next-gen builders & creators community" }
 
 -
   - section: "INVESTORS & THOUGHT LEADERS"
