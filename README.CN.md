@@ -2,12 +2,12 @@
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
-[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io)](https://ut01.github.io/) [![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io) [![GitHub forks](https://img.shields.io/github/forks/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io/fork) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Discuss on Reddit](https://img.shields.io/badge/Discuss_on-Reddit-orange?logo=reddit)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/new_to_ut_austin_tired_of_clicking_through_5/)
+[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io/vc01)](https://ut01.github.io/vc01/) [![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) [![GitHub forks](https://img.shields.io/github/forks/ut01/VC01)](https://github.com/ut01/VC01/fork) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Discuss on Reddit](https://img.shields.io/badge/Discuss_on-Reddit-orange?logo=reddit)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/new_to_ut_austin_tired_of_clicking_through_5/)
 
 > **UT Austin学生的一站式导航** 🤘  
 > 快速访问重要的大学链接，无需深度导航
 
-# **在线访问**: [ut01.github.io](https://ut01.github.io/)
+# **在线访问**: [ut01.github.io/vc01](https://ut01.github.io/vc01/)
 
 Click to watch the demo:
 
@@ -17,7 +17,7 @@ Click to watch the demo:
 
 ## 什么是ut01？
 
-UT01 导航页（https://ut01.github.io）是由 UT Austin 学生自建的常用页面集合，比如课表、成绩、图书馆、食堂菜单、公交信息等都能一键直达，不用每次翻一堆网页。支持中英文页面内搜索。网站代码在GitHub开源、无隐私风险，欢迎收藏设为主页，也欢迎一起在 GitHub 上提建议或改进！
+UT01 导航页（https://ut01.github.io/vc01）是由 UT Austin 学生自建的常用页面集合，比如课表、成绩、图书馆、食堂菜单、公交信息等都能一键直达，不用每次翻一堆网页。支持中英文页面内搜索。网站代码在GitHub开源、无隐私风险，欢迎收藏设为主页，也欢迎一起在 GitHub 上提建议或改进！
 
 ![ut01 Screenshot](./assets/Screenshot-Multiple-Device-ut01.png)
 ![ut01 Screenshot](./assets/Screenshot-Mobile-Device-ut01.png)
@@ -27,7 +27,7 @@ UT01 导航页（https://ut01.github.io）是由 UT Austin 学生自建的常用
 ---
 ## Privacy & Data Collection
 
-ut01.github.io prioritizes user privacy while providing analytics insights for site improvement.
+ut01.github.io/vc01 prioritizes user privacy while providing analytics insights for site improvement.
 
 **What We Track:**
 
@@ -82,7 +82,7 @@ ut01.github.io prioritizes user privacy while providing analytics insights for s
 
 ## 使用方法
 
-1. **访问** [ut01.github.io](https://ut01.github.io/)
+1. **访问** [ut01.github.io/vc01](https://ut01.github.io/vc01/)
 2. **收藏** 常用链接
 3. **设为主页** 便于即时访问
 4. **搜索** 使用搜索功能查找特定服务
@@ -118,7 +118,7 @@ ut01.github.io prioritizes user privacy while providing analytics insights for s
 
 ## 联系与支持
 
-- **问题反馈**: [报告问题或建议添加](https://github.com/ut01/ut01.github.io/issues)
+- **问题反馈**: [报告问题或建议添加](https://github.com/ut01/VC01/issues)
 - **开发者**: [联系维护者](https://github.com/ktwu01/ktwu01/blob/main/README.md)
 - **社区**: 由UT学生创建，为UT学生服务
 
@@ -128,8 +128,8 @@ ut01.github.io prioritizes user privacy while providing analytics insights for s
 
 **🤘 Hook 'em Horns! 由UT Austin博士生用❤️制作**
 
-[![GitHub stars](https://img.shields.io/github/stars/ut01/ut01.github.io)](https://github.com/ut01/ut01.github.io) [![访问网站](https://img.shields.io/badge/访问-ut01.github.io-orange)](https://ut01.github.io/)
+[![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) [![访问网站](https://img.shields.io/badge/访问-ut01.github.io%2Fvc01-orange)](https://ut01.github.io/vc01/)
 
-*将ut01.github.io设为主页，再也不用到处找UT链接了！*
+*将ut01.github.io/vc01设为主页，再也不用到处找UT链接了！*
 
 </div>

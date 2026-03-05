@@ -1,7 +1,7 @@
 # VC01 - Global Venture & Technology Monitor
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
-[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io)](https://ut01.github.io/) 
+[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io/vc01)](https://ut01.github.io/vc01/) 
 [![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) 
 [![GitHub forks](https://img.shields.io/github/forks/ut01/VC01)](https://github.com/ut01/VC01/fork) 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -9,7 +9,7 @@
 > **Terminal-style dashboard for venture capital, technology trends, and startup ecosystems** 🚀  
 > Curated links to VC funds, investors, AI research, tech blogs, and individual thought leaders
 
-# **Live Site**: [ut01.github.io](https://ut01.github.io/)
+# **Live Site**: [ut01.github.io/vc01](https://ut01.github.io/vc01/)
 
 ---
 
@@ -79,7 +79,7 @@ Read insights from 100+ influential tech writers including:
 
 ## How to Use
 
-1. **Visit** [ut01.github.io](https://ut01.github.io/)
+1. **Visit** [ut01.github.io/vc01](https://ut01.github.io/vc01/)
 2. **Browse** by category or use the search function
 3. **Bookmark** frequently visited sources
 4. **Set as Homepage** for instant access to VC/tech resources
@@ -125,7 +125,7 @@ Search for icons at [FontAwesome](https://fontawesome.com/search) and update the
 **🚀 Made for the venture capital and technology community**
 
 [![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) 
-[![Visit Site](https://img.shields.io/badge/Visit-ut01.github.io-orange)](https://ut01.github.io/)
+[![Visit Site](https://img.shields.io/badge/Visit-ut01.github.io%2Fvc01-orange)](https://ut01.github.io/vc01/)
 
 *Set VC01 as your homepage and stay connected to the VC/tech ecosystem!*
 

@@ -35,7 +35,7 @@ User-agent: Googlebot
 Allow: /
 
 # Sitemap
-Sitemap: https://ut01.github.io/sitemap.xml
+Sitemap: https://ut01.github.io/vc01/sitemap.xml
 
 # Disallow specific patterns if needed in the future
 # Disallow: /private/ 
