@@ -2,7 +2,7 @@
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![中文](https://img.shields.io/badge/lang-中文-brown.svg)](README.CN.md)
-[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io/vc01)](https://ut01.github.io/vc01/) [![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) [![GitHub forks](https://img.shields.io/github/forks/ut01/VC01)](https://github.com/ut01/VC01/fork) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Discuss on Reddit](https://img.shields.io/badge/Discuss_on-Reddit-orange?logo=reddit)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/new_to_ut_austin_tired_of_clicking_through_5/)
+[![Website](https://img.shields.io/website?url=https%3A//ut01.github.io/vc01)](https://ut01.github.io/vc01/) [![GitHub stars](https://img.shields.io/github/stars/ut01/vc01)](https://github.com/ut01/vc01) [![GitHub forks](https://img.shields.io/github/forks/ut01/vc01)](https://github.com/ut01/vc01/fork) [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Discuss on Reddit](https://img.shields.io/badge/Discuss_on-Reddit-orange?logo=reddit)](https://www.reddit.com/r/UTAustin/comments/1loxvxu/new_to_ut_austin_tired_of_clicking_through_5/)
 
 > **UT Austin学生的一站式导航** 🤘  
 > 快速访问重要的大学链接，无需深度导航
@@ -118,7 +118,7 @@ ut01.github.io/vc01 prioritizes user privacy while providing analytics insights 
 
 ## 联系与支持
 
-- **问题反馈**: [报告问题或建议添加](https://github.com/ut01/VC01/issues)
+- **问题反馈**: [报告问题或建议添加](https://github.com/ut01/vc01/issues)
 - **开发者**: [联系维护者](https://github.com/ktwu01/ktwu01/blob/main/README.md)
 - **社区**: 由UT学生创建，为UT学生服务
 
@@ -128,7 +128,7 @@ ut01.github.io/vc01 prioritizes user privacy while providing analytics insights 
 
 **🤘 Hook 'em Horns! 由UT Austin博士生用❤️制作**
 
-[![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) [![访问网站](https://img.shields.io/badge/访问-ut01.github.io%2Fvc01-orange)](https://ut01.github.io/vc01/)
+[![GitHub stars](https://img.shields.io/github/stars/ut01/vc01)](https://github.com/ut01/vc01) [![访问网站](https://img.shields.io/badge/访问-ut01.github.io%2Fvc01-orange)](https://ut01.github.io/vc01/)
 
 *将ut01.github.io/vc01设为主页，再也不用到处找UT链接了！*
 

@@ -1,9 +1,9 @@
-# VC01 - Global Venture & Technology Monitor
+# vc01 - Global Venture & Technology Monitor
 
 [![English](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![Website](https://img.shields.io/website?url=https%3A//ut01.github.io/vc01)](https://ut01.github.io/vc01/) 
-[![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) 
-[![GitHub forks](https://img.shields.io/github/forks/ut01/VC01)](https://github.com/ut01/VC01/fork) 
+[![GitHub stars](https://img.shields.io/github/stars/ut01/vc01)](https://github.com/ut01/vc01) 
+[![GitHub forks](https://img.shields.io/github/forks/ut01/vc01)](https://github.com/ut01/vc01/fork) 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > **Terminal-style dashboard for venture capital, technology trends, and startup ecosystems** 🚀  
@@ -13,9 +13,9 @@
 
 ---
 
-## What is VC01?
+## What is vc01?
 
-**VC01** is a terminal-style monitoring dashboard that consolidates essential venture capital and technology resources in one place. Designed with a retro terminal aesthetic (green/amber on dark background, ASCII borders, monospace fonts), it provides quick access to:
+**vc01** is a terminal-style monitoring dashboard that consolidates essential venture capital and technology resources in one place. Designed with a retro terminal aesthetic (green/amber on dark background, ASCII borders, monospace fonts), it provides quick access to:
 
 - **VC Funds**: Y Combinator, a16z, Sequoia, USV, Unusual Ventures, Boldstart, Greylock
 - **Investors & Thought Leaders**: Sam Altman, Benedict Evans, Bill Gurley, Tomasz Tunguz, Jason Lemkin, and more
@@ -115,7 +115,7 @@ Search for icons at [FontAwesome](https://fontawesome.com/search) and update the
 
 ## Contact & Support
 
-- **Issues**: [Report problems or suggest additions](https://github.com/ut01/VC01/issues)
+- **Issues**: [Report problems or suggest additions](https://github.com/ut01/vc01/issues)
 - **Community**: Built for the VC and tech community
 
 ---
@@ -124,9 +124,9 @@ Search for icons at [FontAwesome](https://fontawesome.com/search) and update the
 
 **🚀 Made for the venture capital and technology community**
 
-[![GitHub stars](https://img.shields.io/github/stars/ut01/VC01)](https://github.com/ut01/VC01) 
+[![GitHub stars](https://img.shields.io/github/stars/ut01/vc01)](https://github.com/ut01/vc01) 
 [![Visit Site](https://img.shields.io/badge/Visit-ut01.github.io%2Fvc01-orange)](https://ut01.github.io/vc01/)
 
-*Set VC01 as your homepage and stay connected to the VC/tech ecosystem!*
+*Set vc01 as your homepage and stay connected to the VC/tech ecosystem!*
 
 </div>
