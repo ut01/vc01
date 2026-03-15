@@ -1,0 +1,137 @@
+---
+layout: none
+---
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>vc01: 4-Panel Layout - Marc Andreessen's Info Diet</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="4-panel information dashboard based on Marc Andreessen's consumption model: X, Podcasts, AI Models, and Old Books">
+        <link rel="icon" href="favicon.ico">
+        <link href="style.css" rel="stylesheet">
+        <link href="https://kit-pro.fontawesome.com/releases/v6.4.0/css/pro.min.css" rel="stylesheet">
+        <style>
+            /* Override 3-column layout for 4 columns */
+            .main-col {
+                width: 23.5% !important;
+                margin-right: 2%;
+            }
+            .main-col:last-child {
+                margin-right: 0;
+            }
+            @media (max-width: 1200px) {
+                .main-col {
+                    width: 48% !important;
+                    margin-right: 4%;
+                }
+                .main-col:nth-child(2n) {
+                    margin-right: 0;
+                }
+            }
+            @media (max-width: 768px) {
+                .main-col {
+                    width: 100% !important;
+                    margin-right: 0 !important;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="u_nav-wrapper">
+            <div class="u_nav clearfix">
+                <div class="u_nav-left">
+                <a class="u_nav-link" href="index.html">← Back to 3-Panel</a>
+                </div>
+                <div class="u_nav-input-group">
+                    <form id="search-form-pc">
+                        <input class="u_nav-input" id="search-pc" placeholder="Search...">
+                        <input type="submit" hidden>
+                    </form>
+                    <ul>
+                        <li class="u_nav-btn">
+                            <span onclick="search('google', 'pc')">Google</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="u_nav-right">
+                    <a href="https://github.com/ut01/vc01" class="u_nav-link">GitHub</a>
+                </div>
+            </div>
+        </div>
+        <div class="u_main-wrapper">
+            <div class="dashboard-header">
+                <div class="header-title">4-PANEL INFO DIET: X • PODCASTS • AI • BOOKS</div>
+                <div style="font-size: 0.8em; opacity: 0.7; margin-top: 5px;">
+                    Based on Marc Andreessen's consumption model
+                </div>
+            </div>
+            
+            <div class="main clearfix">
+                {% assign columns = site.data.links-4panel %}
+                <div class="main-col">
+                    {% for section in columns[0] %}
+                    <div class="main-block">
+                        <h2 class="block-title">{{ section.section }}</h2>
+                        <div class="block-grid-wrapper clearfix">
+                            {% for link in section.links %}
+                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords meta=link.meta %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div class="main-col">
+                    {% for section in columns[1] %}
+                    <div class="main-block">
+                        <h2 class="block-title">{{ section.section }}</h2>
+                        <div class="block-grid-wrapper clearfix">
+                            {% for link in section.links %}
+                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords meta=link.meta %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div class="main-col">
+                    {% for section in columns[2] %}
+                    <div class="main-block">
+                        <h2 class="block-title">{{ section.section }}</h2>
+                        <div class="block-grid-wrapper clearfix">
+                            {% for link in section.links %}
+                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords meta=link.meta %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+                <div class="main-col">
+                    {% for section in columns[3] %}
+                    <div class="main-block">
+                        <h2 class="block-title">{{ section.section }}</h2>
+                        <div class="block-grid-wrapper clearfix">
+                            {% for link in section.links %}
+                                {% include block-grid.html url=link.url title=link.title icon=link.icon keywords=link.keywords meta=link.meta %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <div class="footer">
+                <strong>4-Panel Information Diet</strong> - Based on Marc Andreessen's model: 1/4 X, 1/4 Podcasts, 1/4 AI Models, 1/4 Old Books
+                <br>
+                <a href="index.html">Switch to 3-Panel Layout</a> | <a href="https://github.com/ut01/vc01/" target="_blank">GitHub Repo</a>
+            </div>
+        </div>
+    </body>
+    <script>
+        var search=function(site,env){var searchId=env==='pc'?'search-pc':'search-mobile';var baseURL={google:'https://www.google.com/search?q=',bing:'https://www.bing.com/search?q='};window.open(baseURL[site]+encodeURIComponent(document.getElementById(searchId).value))};
+        document.getElementById("search-form-pc").onsubmit=function(e){e.preventDefault();search('google','pc')};
+    </script>
+</html>

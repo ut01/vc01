@@ -1,0 +1,103 @@
+# VC Dashboard Data Structure - 4 Panel Layout
+# Based on Marc Andreessen's information consumption model:
+# 1/4 X (Twitter), 1/4 Podcasts, 1/4 AI Models, 1/4 Old Books
+
+-
+  - section: "X (TWITTER) - TECH & VC VOICES"
+    section_zh: "X平台 - 科技与投资声音"
+    links:
+      - { url: "https://x.com/pmarca", title: "Marc Andreessen", icon: "fab fa-x-twitter", keywords: "marc andreessen a16z netscape", meta: "a16z co-founder, Netscape creator" }
+      - { url: "https://x.com/naval", title: "Naval Ravikant", icon: "fab fa-x-twitter", keywords: "naval ravikant angellist philosophy", meta: "AngelList founder, philosopher" }
+      - { url: "https://x.com/elonmusk", title: "Elon Musk", icon: "fab fa-x-twitter", keywords: "elon musk tesla spacex x", meta: "Tesla, SpaceX, X CEO" }
+      - { url: "https://x.com/peterthiel", title: "Peter Thiel", icon: "fab fa-x-twitter", keywords: "peter thiel founders fund paypal", meta: "Founders Fund, PayPal co-founder" }
+      - { url: "https://x.com/bhorowitz", title: "Ben Horowitz", icon: "fab fa-x-twitter", keywords: "ben horowitz a16z", meta: "a16z co-founder, author" }
+      - { url: "https://x.com/sama", title: "Sam Altman", icon: "fab fa-x-twitter", keywords: "sam altman openai yc", meta: "OpenAI CEO, ex-YC President" }
+      - { url: "https://x.com/paulg", title: "Paul Graham", icon: "fab fa-x-twitter", keywords: "paul graham yc essays", meta: "YC founder, essays" }
+      - { url: "https://x.com/balajis", title: "Balaji Srinivasan", icon: "fab fa-x-twitter", keywords: "balaji srinivasan crypto", meta: "Crypto thought leader" }
+      - { url: "https://x.com/garrytan", title: "Garry Tan", icon: "fab fa-x-twitter", keywords: "garry tan yc", meta: "YC President" }
+      - { url: "https://x.com/dhh", title: "DHH", icon: "fab fa-x-twitter", keywords: "dhh ruby rails basecamp", meta: "Ruby on Rails creator" }
+      - { url: "https://x.com/levie", title: "Aaron Levie", icon: "fab fa-x-twitter", keywords: "aaron levie box", meta: "Box CEO" }
+      - { url: "https://x.com/benedictevans", title: "Benedict Evans", icon: "fab fa-x-twitter", keywords: "benedict evans tech analyst", meta: "Technology analyst" }
+      - { url: "https://x.com/jason", title: "Jason Calacanis", icon: "fab fa-x-twitter", keywords: "jason calacanis angel investor", meta: "Angel investor, podcaster" }
+      - { url: "https://x.com/chamath", title: "Chamath Palihapitiya", icon: "fab fa-x-twitter", keywords: "chamath social capital", meta: "Social Capital founder" }
+      - { url: "https://x.com/anothercohen", title: "Andrew Chen", icon: "fab fa-x-twitter", keywords: "andrew chen a16z growth", meta: "a16z partner, growth expert" }
+      - { url: "https://x.com/shl", title: "Sahil Lavingia", icon: "fab fa-x-twitter", keywords: "sahil lavingia gumroad", meta: "Gumroad founder" }
+      - { url: "https://x.com/patrickc", title: "Patrick Collison", icon: "fab fa-x-twitter", keywords: "patrick collison stripe", meta: "Stripe CEO" }
+      - { url: "https://x.com/tobi", title: "Tobi Lütke", icon: "fab fa-x-twitter", keywords: "tobi lutke shopify", meta: "Shopify CEO" }
+      - { url: "https://x.com/dwr", title: "Dan Romero", icon: "fab fa-x-twitter", keywords: "dan romero farcaster", meta: "Farcaster co-founder" }
+      - { url: "https://x.com/vitalikbuterin", title: "Vitalik Buterin", icon: "fab fa-x-twitter", keywords: "vitalik buterin ethereum", meta: "Ethereum founder" }
+
+-
+  - section: "PODCASTS - SMARTEST PRACTITIONERS"
+    section_zh: "播客 - 最聪明的实践者"
+    links:
+      - { url: "https://www.acquired.fm/", title: "Acquired", icon: "fas fa-podcast", keywords: "acquired podcast business history", meta: "Business history deep dives" }
+      - { url: "https://lexfridman.com/podcast/", title: "Lex Fridman", icon: "fas fa-podcast", keywords: "lex fridman podcast ai tech deep", meta: "AI & tech deep conversations" }
+      - { url: "https://www.allinpodcast.co/", title: "All-In Podcast", icon: "fas fa-podcast", keywords: "all-in podcast investing tech", meta: "Tech & investing insights" }
+      - { url: "https://www.latent.space/podcast", title: "Latent Space", icon: "fas fa-podcast", keywords: "latent space ai engineering", meta: "AI engineering practice" }
+      - { url: "https://www.dwarkeshpatel.com/", title: "Dwarkesh Podcast", icon: "fas fa-podcast", keywords: "dwarkesh patel podcast", meta: "Deep tech interviews" }
+      - { url: "https://www.joincolossus.com/", title: "Invest Like the Best", icon: "fas fa-podcast", keywords: "patrick oshaughnessy investing", meta: "Investment insights" }
+      - { url: "https://www.thetwentyminutevc.com/", title: "20VC", icon: "fas fa-podcast", keywords: "20vc harry stebbings venture", meta: "VC insights with Harry Stebbings" }
+      - { url: "https://www.lennyspodcast.com/", title: "Lenny's Podcast", icon: "fas fa-podcast", keywords: "lenny rachitsky product", meta: "Product & growth" }
+      - { url: "https://www.notboring.co/", title: "Not Boring", icon: "fas fa-podcast", keywords: "packy mccormick tech", meta: "Tech strategy & analysis" }
+      - { url: "https://www.thegeneralist.com/", title: "The Generalist", icon: "fas fa-podcast", keywords: "mario gabriele tech", meta: "Tech deep dives" }
+      - { url: "https://www.econtalk.org/", title: "EconTalk", icon: "fas fa-podcast", keywords: "econtalk economics russ roberts", meta: "Economics conversations" }
+      - { url: "https://tim.blog/podcast/", title: "Tim Ferriss Show", icon: "fas fa-podcast", keywords: "tim ferriss podcast", meta: "World-class performers" }
+      - { url: "https://www.theknowledgeproject.com/", title: "The Knowledge Project", icon: "fas fa-podcast", keywords: "shane parrish farnam street", meta: "Mental models & wisdom" }
+      - { url: "https://www.cognitiverevolution.ai/", title: "Cognitive Revolution", icon: "fas fa-podcast", keywords: "cognitive revolution ai", meta: "AI frontier exploration" }
+      - { url: "https://www.nfx.com/post/podcast", title: "NFX Podcast", icon: "fas fa-podcast", keywords: "nfx network effects", meta: "Network effects & startups" }
+      - { url: "https://www.bvp.com/atlas/cloud-20", title: "BVP Cloud Podcast", icon: "fas fa-podcast", keywords: "bessemer cloud saas", meta: "Cloud & SaaS insights" }
+      - { url: "https://www.heavybit.com/library/podcasts/", title: "Heavybit", icon: "fas fa-podcast", keywords: "heavybit developer tools", meta: "Developer tools & infra" }
+      - { url: "https://www.sequoiacap.com/podcast/", title: "Sequoia Podcast", icon: "fas fa-podcast", keywords: "sequoia venture capital", meta: "Sequoia insights" }
+      - { url: "https://www.ycombinator.com/blog/category/podcast", title: "YC Podcast", icon: "fas fa-podcast", keywords: "yc ycombinator startup", meta: "Startup advice from YC" }
+      - { url: "https://www.turpentine.co/", title: "Turpentine", icon: "fas fa-podcast", keywords: "turpentine podcast network", meta: "Tech podcast network" }
+
+-
+  - section: "AI MODELS - LEADING INTELLIGENCE"
+    section_zh: "AI模型 - 领先智能"
+    links:
+      - { url: "https://chat.openai.com/", title: "ChatGPT (GPT-4)", icon: "fas fa-robot", keywords: "chatgpt gpt4 openai", meta: "OpenAI's flagship model" }
+      - { url: "https://claude.ai/", title: "Claude (Anthropic)", icon: "fas fa-brain", keywords: "claude anthropic ai", meta: "Anthropic's Claude AI" }
+      - { url: "https://gemini.google.com/", title: "Gemini (Google)", icon: "fab fa-google", keywords: "gemini google ai", meta: "Google's multimodal AI" }
+      - { url: "https://www.perplexity.ai/", title: "Perplexity", icon: "fas fa-search", keywords: "perplexity ai search", meta: "AI-powered search" }
+      - { url: "https://grok.x.ai/", title: "Grok (xAI)", icon: "fas fa-rocket", keywords: "grok xai elon", meta: "xAI's Grok model" }
+      - { url: "https://www.anthropic.com/claude", title: "Claude API", icon: "fas fa-code", keywords: "claude api anthropic", meta: "Claude API access" }
+      - { url: "https://platform.openai.com/", title: "OpenAI Platform", icon: "fas fa-terminal", keywords: "openai api platform", meta: "OpenAI API & tools" }
+      - { url: "https://huggingface.co/chat/", title: "HuggingChat", icon: "fas fa-smile", keywords: "huggingface chat open source", meta: "Open-source AI chat" }
+      - { url: "https://www.meta.ai/", title: "Meta AI (Llama)", icon: "fab fa-meta", keywords: "meta ai llama", meta: "Meta's Llama models" }
+      - { url: "https://mistral.ai/", title: "Mistral AI", icon: "fas fa-wind", keywords: "mistral ai european", meta: "European AI leader" }
+      - { url: "https://www.cohere.com/", title: "Cohere", icon: "fas fa-layer-group", keywords: "cohere enterprise ai", meta: "Enterprise AI platform" }
+      - { url: "https://www.anthropic.com/news", title: "Anthropic Research", icon: "fas fa-flask", keywords: "anthropic research ai safety", meta: "AI safety research" }
+      - { url: "https://openai.com/research/", title: "OpenAI Research", icon: "fas fa-microscope", keywords: "openai research", meta: "OpenAI research papers" }
+      - { url: "https://deepmind.google/", title: "DeepMind", icon: "fas fa-brain", keywords: "deepmind google ai", meta: "Google DeepMind research" }
+      - { url: "https://www.cursor.com/", title: "Cursor", icon: "fas fa-code", keywords: "cursor ai coding", meta: "AI-powered code editor" }
+      - { url: "https://github.com/features/copilot", title: "GitHub Copilot", icon: "fab fa-github", keywords: "github copilot ai coding", meta: "AI pair programmer" }
+      - { url: "https://www.phind.com/", title: "Phind", icon: "fas fa-search-plus", keywords: "phind developer search", meta: "AI search for developers" }
+      - { url: "https://www.you.com/", title: "You.com", icon: "fas fa-compass", keywords: "you.com ai search", meta: "AI-powered search engine" }
+      - { url: "https://poe.com/", title: "Poe", icon: "fas fa-comments", keywords: "poe quora ai", meta: "Multi-model AI platform" }
+      - { url: "https://www.character.ai/", title: "Character.AI", icon: "fas fa-user-robot", keywords: "character ai chatbot", meta: "Conversational AI characters" }
+
+-
+  - section: "OLD BOOKS & TIMELESS WISDOM"
+    section_zh: "经典书籍与永恒智慧"
+    links:
+      - { url: "https://www.gutenberg.org/", title: "Project Gutenberg", icon: "fas fa-book", keywords: "gutenberg free books classics", meta: "70,000+ free classic books" }
+      - { url: "https://standardebooks.org/", title: "Standard Ebooks", icon: "fas fa-book-open", keywords: "standard ebooks classics", meta: "High-quality public domain books" }
+      - { url: "https://archive.org/", title: "Internet Archive", icon: "fas fa-archive", keywords: "internet archive books", meta: "Digital library of millions of books" }
+      - { url: "https://www.amazon.com/", title: "Amazon Books", icon: "fab fa-amazon", keywords: "amazon books kindle", meta: "Book marketplace" }
+      - { url: "https://www.goodreads.com/", title: "Goodreads", icon: "fas fa-book-reader", keywords: "goodreads book recommendations", meta: "Book discovery & reviews" }
+      - { url: "https://fs.blog/", title: "Farnam Street", icon: "fas fa-brain", keywords: "farnam street mental models", meta: "Mental models & wisdom" }
+      - { url: "https://www.brainpickings.org/", title: "The Marginalian", icon: "fas fa-feather", keywords: "brain pickings marginalian", meta: "Literature & philosophy" }
+      - { url: "https://www.ribbonfarm.com/", title: "Ribbonfarm", icon: "fas fa-ribbon", keywords: "ribbonfarm venkatesh rao", meta: "Deep thinking & essays" }
+      - { url: "https://www.lesswrong.com/", title: "LessWrong", icon: "fas fa-lightbulb", keywords: "lesswrong rationality", meta: "Rationality community" }
+      - { url: "https://slatestarcodex.com/", title: "Slate Star Codex", icon: "fas fa-star", keywords: "slate star codex scott alexander", meta: "Rationalist blog archive" }
+      - { url: "https://astralcodexten.substack.com/", title: "Astral Codex Ten", icon: "fas fa-star-of-life", keywords: "astral codex ten scott alexander", meta: "Scott Alexander's current blog" }
+      - { url: "https://www.edge.org/", title: "Edge.org", icon: "fas fa-network-wired", keywords: "edge third culture", meta: "Third culture conversations" }
+      - { url: "https://www.epsilontheory.com/", title: "Epsilon Theory", icon: "fas fa-chess", keywords: "epsilon theory ben hunt", meta: "Game theory & markets" }
+      - { url: "https://www.collaborativefund.com/blog/", title: "Collaborative Fund", icon: "fas fa-handshake", keywords: "morgan housel collaborative fund", meta: "Morgan Housel's insights" }
+      - { url: "https://waitbutwhy.com/", title: "Wait But Why", icon: "fas fa-question", keywords: "wait but why tim urban", meta: "Deep dives on big topics" }
+      - { url: "https://www.perell.com/", title: "David Perell", icon: "fas fa-pen-fancy", keywords: "david perell writing", meta: "Writing & learning" }
+      - { url: "https://www.nateliason.com/", title: "Nat Eliason", icon: "fas fa-book-open", keywords: "nat eliason learning", meta: "Learning & productivity" }
+      - { url: "https://www.amazon.com/Meditations-Marcus-Aurelius/dp/0812968255", title: "Meditations (Marcus Aurelius)", icon: "fas fa-scroll", keywords: "meditations marcus aurelius stoicism", meta: "Stoic philosophy classic" }
+      - { url: "https://www.amazon.com/Poor-Charlies-Almanack-Charles-Expanded/dp/1578645018", title: "Poor Charlie's Almanack", icon: "fas fa-book", keywords: "charlie munger wisdom", meta: "Charlie Munger's wisdom" }
+      - { url: "https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296", title: "Zero to One (Peter Thiel)", icon: "fas fa-rocket", keywords: "zero to one peter thiel", meta: "Startup thinking" }
